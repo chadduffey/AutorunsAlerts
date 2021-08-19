@@ -1,0 +1,10 @@
+{
+    "InstallPath"       : "c:\\program files\\AutorunsAlert",
+    "StateFile"         : "c:\\program files\\AutorunsAlert\\state.json",
+    "TemporaryCSVFile"  : "c:\\program files\\AutorunsAlert\\temp.csv",
+    "ScriptLogFile"     : "c:\\program files\\AutorunsAlert\\script.log",
+    "AuditLogFile"      : "c:\\program files\\AutorunsAlert\\audit.log",
+    "AutorunsExe"       : "c:\\program files\\AutorunsAlert\\Autorunsc64.exe",
+    "FrequencyMinutes"  : "60",
+    "ToastCheckMinutes" : "10"
+}
